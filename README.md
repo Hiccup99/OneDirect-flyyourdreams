@@ -5,8 +5,8 @@ On landing on the home page a user can enter source, destination airport, pick a
 
 # Database
 
-Bookings - Stores the user information ( mobile number ) after completion of booking and also the flight ID.<br />
-flight   - Consist of all the flights with details such as -
+Bookings.sql - Stores the user information ( mobile number ) after completion of booking and also the flight ID.<br />
+Flight.sql   - Consist of all the flights with details such as -
           
            1. Flight ID
            2. Flight Name
