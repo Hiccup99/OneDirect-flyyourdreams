@@ -17,5 +17,7 @@ Flight.sql   - Consist of all the flights with details such as -
            7. Arrival Time 
            8. Fare 
            9. Flight Logo
-          10. Duration
+          10. Duration<br/>
+
+Note: Dealyed commit of database (Missed out on the instructions)
           
